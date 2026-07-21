@@ -1,0 +1,58 @@
+{
+    "card_id": "3B_6C_23_03_90_00",
+    "balance": 100.0,
+    "email": "oppo793438@gmail.com",
+    "top_up_history": [
+        {
+            "amount": 800.0,
+            "time": "2026-03-07 16:52:04"
+        }
+    ],
+    "transaction_log": [
+        {
+            "type": "entry",
+            "time": "2026-03-07 16:52:52",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 16:53:49",
+            "detail": "Exited from Gate B (entered at Gate A), cost 100"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 16:54:35",
+            "detail": "Exited from Gate B (entered at Gate A), cost 100"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 17:13:46",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 17:14:46",
+            "detail": "Exited from Gate C (entered at Gate A), cost 200"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 18:59:02",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 18:59:34",
+            "detail": "Exited from Gate C (entered at Gate A), cost 200"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 19:01:16",
+            "detail": "Entered at Gate B"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 19:01:29",
+            "detail": "Exited from Gate C (entered at Gate B), cost 100"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "card_id": "08_2D_24_03_90_00",
+    "balance": 400.0,
+    "email": "peeraphat.mg9@gmail.com",
+    "top_up_history": [
+        {
+            "amount": 500.0,
+            "time": "2026-03-07 00:58:57"
+        },
+        {
+            "amount": 300.0,
+            "time": "2026-03-07 12:00:01"
+        },
+        {
+            "amount": 300.0,
+            "time": "2026-03-07 12:02:37"
+        },
+        {
+            "amount": 200.0,
+            "time": "2026-03-07 12:06:32"
+        },
+        {
+            "amount": 300.0,
+            "time": "2026-03-07 12:28:47"
+        }
+    ],
+    "transaction_log": [
+        {
+            "type": "entry",
+            "time": "2026-03-07 00:59:52",
+            "detail": "Entered at ด่าน A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 00:59:56",
+            "detail": "Exited from ด่าน C (entered at ด่าน A), cost 200.0"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 01:08:06",
+            "detail": "Entered at ด่าน A"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 01:17:04",
+            "detail": "Entered at ด่าน A"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 01:17:11",
+            "detail": "Entered at ด่าน A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 01:17:17",
+            "detail": "Exited from ด่าน B (entered at ด่าน A), cost 150.0"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 01:39:48",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 01:47:01",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 01:49:19",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 12:00:35",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 12:00:40",
+            "detail": "Exited from Gate B (entered at Gate A), cost 150.0"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 12:27:55",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 12:27:59",
+            "detail": "Exited from Gate B (entered at Gate A), cost 100.0"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 12:28:09",
+            "detail": "Entered at Gate B"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 12:28:12",
+            "detail": "Exited from Gate C (entered at Gate B), cost 100.0"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 12:28:17",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 12:28:18",
+            "detail": "Exited from Gate C (entered at Gate A), cost 200.0"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 12:32:56",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 12:33:02",
+            "detail": "Exited from Gate B (entered at Gate A), cost 100.0"
+        },
+        {
+            "type": "entry",
+            "time": "2026-03-07 15:06:06",
+            "detail": "Entered at Gate A"
+        },
+        {
+            "type": "exit",
+            "time": "2026-03-07 15:06:19",
+            "detail": "Exited from Gate C (entered at Gate A), cost 200.0"
+        }
+    ]
+}

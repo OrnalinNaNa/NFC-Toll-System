@@ -1,0 +1,8 @@
+{
+    "card_id": "3B_6C_23_03_90_00",
+    "entry_gate": "Gate B",
+    "exit_gate": "Gate C",
+    "exit_time": "2026-03-07 19:01:29",
+    "toll_cost": 100,
+    "balance_after": 100.0
+}
