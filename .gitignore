@@ -18,6 +18,8 @@ eggs/
 venv/
 ENV/
 env/
+.env
+.env.*
 
 # IDE
 .vscode/
@@ -31,3 +33,4 @@ Thumbs.db
 
 # Logs
 *.log
+
